@@ -21,5 +21,6 @@ Bu proje ile Bootstrap bileşenlerini kullanmayı, responsive tasarım oluşturm
 
 📷 Proje Görseli
 
-![](./cryptoverse.gif)
+<img width="1504" height="720" alt="cryptoverse" src="https://github.com/user-attachments/assets/50fb4737-f49f-4ed3-8bc0-5e2ba1287e1d" />
+
 
