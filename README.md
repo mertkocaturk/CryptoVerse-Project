@@ -20,5 +20,6 @@ Bu proje ile Bootstrap bileşenlerini kullanmayı, responsive tasarım oluşturm
 - Font Awesome
 
 📷 Proje Görseli
-<img width="1504" height="720" alt="cryptoverse" src="https://github.com/user-attachments/assets/d84cf303-09e3-4b65-aca9-9c919bcb7c46" />
+
+![](./cryptoverse.gif)
 
