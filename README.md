@@ -3,15 +3,15 @@ CryptoVerse, HTML5, CSS3 ve Bootstrap 5 kullanılarak geliştirilmiş, modern ve
 Bu proje ile Bootstrap bileşenlerini kullanmayı, responsive tasarım oluşturmayı ve düzenli bir sayfa yapısı geliştirmeyi hedefledim.
 
 📌 Proje Özellikleri
-📱 Tam responsive tasarım
-🧭 Responsive Navbar
-🎠 Bootstrap Carousel (Hero Alanı)
-💳 Özellik Kartları (Features)
-💬 Müşteri Yorumları Bölümü
-📰 Haberler Bölümü
-📞 İletişim Bölümü
-🎨 Modern ve kullanıcı dostu arayüz
-⚡ Bootstrap Utility Class'larının etkin kullanımı
+- 📱 Tam responsive tasarım
+- 🧭 Responsive Navbar
+- 🎠 Bootstrap Carousel (Hero Alanı)
+- 💳 Özellik Kartları (Features)
+- 💬 Müşteri Yorumları Bölümü
+- 📰 Haberler Bölümü
+- 📞 İletişim Bölümü
+- 🎨 Modern ve kullanıcı dostu arayüz
+- ⚡ Bootstrap Utility Class'larının etkin kullanımı
 
 🛠️ Kullanılan Teknolojiler
 - HTML5
