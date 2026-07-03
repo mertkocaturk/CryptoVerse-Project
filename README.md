@@ -1,4 +1,5 @@
 🚀 CryptoVerse
+
 CryptoVerse, HTML5, CSS3 ve Bootstrap 5 kullanılarak geliştirilmiş, modern ve tamamen responsive bir kripto para tanıtım projesidir.
 Bu proje ile Bootstrap bileşenlerini kullanmayı, responsive tasarım oluşturmayı ve düzenli bir sayfa yapısı geliştirmeyi hedefledim.
 
